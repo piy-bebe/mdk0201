@@ -3,6 +3,6 @@ const btn = document.querySelector('#a');
 
 btn.addEventListener('click', () => {
   const body = document.querySelector('body');
-  body.style.backgroundColor = 'white';
+  body.style.backgroundColor = 'green';
   body.style.fontSize = '90px';
 });
